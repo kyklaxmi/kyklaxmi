@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1137f07d-d4ce-4a75-b77e-b73c0aba69cf" name="Changes" comment="first  3 programs which i wrotw">
+    <list default="true" id="1137f07d-d4ce-4a75-b77e-b73c0aba69cf" name="Changes" comment="this is my second">
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -16,6 +16,7 @@
       <change afterPath="$PROJECT_DIR$/src/Lab004.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Lab005.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab007.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704197878609</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="this is my second">
+      <created>1704562832970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704562832970</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +181,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first  3 programs which i wrotw" />
-    <option name="LAST_COMMIT_MESSAGE" value="first  3 programs which i wrotw" />
+    <MESSAGE value="this is my second" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is my second" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
